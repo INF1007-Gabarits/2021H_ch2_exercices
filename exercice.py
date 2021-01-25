@@ -1,12 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def majuscule(mot):
-    resultat = ''
-    for lettre in mot:
-        # TODO completer la fonction ici
-        
-        resultat += lettre
-    return resultat
+    # TODO completer la fonction ici
+    return mot
 
 
 if __name__ == '__main__':
