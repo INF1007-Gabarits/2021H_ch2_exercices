@@ -4,6 +4,7 @@ def majuscule(mot):
     pass
 
 
+
 if __name__ == '__main__':
     mots = [
         'riz',
